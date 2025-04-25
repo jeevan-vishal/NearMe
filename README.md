@@ -83,3 +83,4 @@ image map
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
+    
